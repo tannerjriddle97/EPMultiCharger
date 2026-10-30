@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "epmulticharger",
+  "name": "Electrical Progressive: Four Bay Charger",
+  "authors": ["obbra"],
+  "description": "A four-item charging queue that uses one standard EP charger power budget.",
+  "version": "1.0.1",
+  "side": "universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "dependencies": { "game": "1.22.7", "electricalprogressivebasics": "3.3.1", "electricalprogressivecore": "3.3.0" }
+}

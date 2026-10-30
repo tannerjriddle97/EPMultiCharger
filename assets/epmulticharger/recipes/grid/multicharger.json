@@ -1,0 +1,27 @@
+{
+  "ingredients": {
+    "G": {
+      "code": "game:glass-plain",
+      "type": "block"
+    },
+    "I": {
+      "code": "electricalprogressivebasics:coil",
+      "type": "item"
+    },
+    "P": {
+      "code": "game:metalplate-iron",
+      "type": "item"
+    },
+    "C": {
+      "code": "electricalprogressivebasics:charger-disabled-south",
+      "type": "block"
+    }
+  },
+  "height": 2,
+  "width": 3,
+  "ingredientPattern": "PCP,IGI",
+  "output": {
+    "code": "epmulticharger:multicharger-disabled-south",
+    "type": "block"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "handbook-title": "Four-item charging queue",
+  "interact": "Insert/remove item in targeted bay",
+  "block-multicharger-enabled-*": "Four Bay Charger",
+  "block-multicharger-burned-*": "Burned Four Bay Charger",
+  "block-multicharger-disabled-*": "Four Bay Charger",
+  "handbook-text": "Right-click one of the four bays to insert or retrieve an item. Holds four items; charges the first unfinished bay at standard charger speed and power (up to 200 W). Completed items remain until retrieved. Connect power underneath. Standard EP voltage and burnout rules still apply."
+}
